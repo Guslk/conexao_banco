@@ -20,7 +20,7 @@ O foco principal deste repositório é servir como um ponto de partida rápido e
 
 2.  **Instale as dependências do backend:**
     ```bash
-    cd seu-repositorio/backend
+    cd conexao_banco/backend
     npm install
     ```
 
