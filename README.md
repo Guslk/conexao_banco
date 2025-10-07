@@ -21,7 +21,7 @@ O foco principal deste repositório é servir como um ponto de partida rápido e
 2.  **Instale as dependências do backend:**
     ```bash
     cd conexao_banco/backend
-    npm install
+    npm install cors dotenv express mysql12
     ```
 
 3.  **Configure as Variáveis de Ambiente:**
