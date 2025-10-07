@@ -15,7 +15,7 @@ O foco principal deste repositório é servir como um ponto de partida rápido e
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/Guslk/conexao_banco.git](https://github.com/Guslk/conexao_banco.git)
     ```
 
 2.  **Instale as dependências do backend:**
